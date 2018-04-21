@@ -65,7 +65,6 @@ if __name__ == '__main__':
     KEY = ''.join(random.sample(string.ascii_uppercase + string.digits, k=17))
     SECRET = b"flag={quokkalight_1s_th3_b3st_t34m}"
     IKNOW  = "flag="
-    RR = 0
     print("[+] Secret TOKEN :", SECRET.decode())
     print("[+] Encrypted with \033[33mRC4\033[0m")
     print("[+] Trying to decrypt with a compression oracle attacks using a \033[33mrecursive two_tries\033[0m method")
