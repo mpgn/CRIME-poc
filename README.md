@@ -130,7 +130,7 @@ python3 CRIME-cbc-poc.py
 
 ## Exploit
 
-coming really soon...
+<del>coming really soon...</del>
 
 ```
                 \     /
